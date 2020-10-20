@@ -10,6 +10,10 @@
           <option name="url" value="http://atlas.swec.sbercloud.ru" />
           <option name="userName" value="rkrivoshein" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://atlas.swec.sbercloud.ru/bitbucket/scm/~rkrivoshein/bootcamp-marketplace.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/src/luxoft/sber/bootcamp" />
