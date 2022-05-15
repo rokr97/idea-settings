@@ -1,8 +1,11 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-      <template name="POTD.java" file-name="{$NAME}" reformat="true" live-template-enabled="false" />
+      <template name="POTD.java" file-name="${NAME}" reformat="true" live-template-enabled="false">
+        <template name="POTD.java.child.0.java" file-name="../../test/potd/${NAME}Test" reformat="true" live-template-enabled="false" />
+      </template>
       <template name="POTD Test Class.java" file-name="${NAME}" reformat="true" live-template-enabled="false" />
+      <template name="POTD.java.child.0.java" file-name="../../test/potd/${NAME}Test" reformat="true" live-template-enabled="false" />
     </default_templates>
   </component>
 </application>
