@@ -18,9 +18,13 @@
           <option name="url" value="https://github.com/tristanguigue/dynamic-programming.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab-002.russpass.com:6000/russpass/billing/russpass-integration-hotels.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/src/github" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/work/AMTEX/russpass/src/billing" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
