@@ -22,6 +22,10 @@
           <option name="url" value="ssh://git@gitlab-002.russpass.com:6000/russpass/billing/russpass-integration-hotels.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab-002.russpass.com:6000/russpass/billing/russpass-billing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/work/AMTEX/russpass/src/billing" />
