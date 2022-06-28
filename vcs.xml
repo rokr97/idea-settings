@@ -48,7 +48,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/src/github" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/work/AMTEX/russpass/src/billing" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
