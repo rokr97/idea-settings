@@ -18,9 +18,37 @@
           <option name="url" value="https://github.com/tristanguigue/dynamic-programming.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab-002.russpass.com:6000/russpass/billing/russpass-integration-hotels.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab-002.russpass.com:6000/russpass/billing/russpass-billing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab-002.russpass.com/russpass/billing/russpass-billing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab-002.russpass.com" />
+          <option name="userName" value="rodion.krivoshein" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab-002.russpass.com/russpass/billing/russpass-integration-travelline.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab-002.russpass.com/russpass/billing/russpass-integration-bnovo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/adessoSE/junit-insights.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/src/github" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/work/AMTEX/russpass/src/billing" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
@@ -31,5 +59,8 @@
         <option value="Default.Date" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
